@@ -90,7 +90,7 @@ A selection of influential AI safety and security papers, with up to three paper
 
 * Reza Shokri, Marco Stronati, Congzheng Song, Vitaly Shmatikov.”[Membership Inference Attacks against Machine Learning Models](https://arxiv.org/abs/1610.05820)”. In IEEE Symposium on Security and Privacy, 2017. 
 
-* Samuel Yeom, Irene Giacomelli, Matt Fredrikson, Somesh Jha. “[Privacy risk in machine learning: Analyzing the connection to overfitting]”. In IEEE Computer Security Foundations Symposium, 2018.
+* Samuel Yeom, Irene Giacomelli, Matt Fredrikson, Somesh Jha. “[Privacy risk in machine learning: Analyzing the connection to overfitting](https://arxiv.org/abs/1709.01604)”. In IEEE Computer Security Foundations Symposium, 2018.
 
 * Nicholas Carlini, Steve Chien, Milad Nasr, Shuang Song, Andreas Terzis, Florian Tramer. “[Membership Inference Attacks From First Principles](https://arxiv.org/abs/2112.03570)”. In IEEE Symposium on Security and Privacy, 2022.
 
