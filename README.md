@@ -81,8 +81,6 @@ A selection of influential AI safety and security papers, with up to three paper
 
 ## Model inversion
 
-* Matthew Fredrikson, Eric Lantz, Somesh Jha, Simon Lin, David Page, Thomas Ristenpart. “[Privacy in pharmacogenetics: An End-to-End case study of personalized warfarin dosing](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/fredrikson_matthew)”. In Usenix Security Symposium, 2014.
-
 * Matt Fredrikson, Somesh Jha, Thomas Ristenpart. “[Model inversion attacks that exploit confidence information and basic countermeasures](https://dl.acm.org/doi/10.1145/2810103.2813677)”. In CCS, 2015.
 
 * Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea, Colin Raffel. “[Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)”. In Usenix Security Symposium, 2021.
