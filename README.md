@@ -1,5 +1,6 @@
 # AI-safety-security-influential-papers
-A selection of influential AI safety and security papers, with up to three papers per topic. Papers are chosen based on their innovation and technical quality.
+A selection of influential AI safety and security papers, with up to three papers per topic. Papers are chosen based on their innovation and technical quality. These are must-reads for beginners, and we welcome comments on the selection.
+
 
 ## Jailbreak
 
