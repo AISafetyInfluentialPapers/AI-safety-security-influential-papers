@@ -85,6 +85,9 @@ A selection of influential AI safety and security papers, with up to three paper
 
 * Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea, Colin Raffel. “[Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)”. In Usenix Security Symposium, 2021.
 
+* Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, Eric Wallace. “[Extracting Training Data from Diffusion Models](https://arxiv.org/abs/2301.13188)”. In Usenix Security Symposium, 2023
+
+
 ## Membership inference
 
 * Reza Shokri, Marco Stronati, Congzheng Song, Vitaly Shmatikov.”[Membership Inference Attacks against Machine Learning Models](https://arxiv.org/abs/1610.05820)”. In IEEE Symposium on Security and Privacy, 2017. 
