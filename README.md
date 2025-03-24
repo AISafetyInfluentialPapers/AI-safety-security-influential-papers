@@ -12,9 +12,11 @@ A selection of influential AI safety and security papers, with up to three paper
 
 ## Watermarking AI-generated content
 
+* Jiren Zhu, Russell Kaplan, Justin Johnson, Li Fei-Fei. “[HiDDeN: Hiding Data With Deep Networks](https://arxiv.org/abs/1807.09937)”. In ECCV, 2018.
+
 * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein. “[A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)”. In ICML, 2023.
 
-* Jiren Zhu, Russell Kaplan, Justin Johnson, Li Fei-Fei. “[HiDDeN: Hiding Data With Deep Networks](https://arxiv.org/abs/1807.09937)”. In ECCV, 2018.
+* Robin San Roman, Pierre Fernandez, Alexandre Défossez, Teddy Furon, Tuan Tran, Hady Elsahar. “[Proactive Detection of Voice Cloning with Localized Watermarking](https://arxiv.org/abs/2401.17264)”. In ICML, 2024
 
 
 ## Prompt injection
