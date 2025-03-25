@@ -57,10 +57,10 @@ A selection of influential AI safety and security papers, with up to three paper
 
 * Jacob Steinhardt, Pang Wei Koh, Percy Liang. “[Certified Defenses for Data Poisoning Attacks](https://arxiv.org/abs/1706.03691)”. In NeurIPS, 2017. 
 
-* Alexander Levine, Soheil Feizi. “[Deep Partition Aggregation: Provable Defense against General Poisoning Attacks](https://arxiv.org/abs/2006.14768)”. In ICLR, 2021.
-  
 * Jinyuan Jia, Xiaoyu Cao, Neil Zhenqiang Gong. “[Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks](https://arxiv.org/abs/2008.04495)”. In AAAI, 2021. 
 
+* Alexander Levine, Soheil Feizi. “[Deep Partition Aggregation: Provable Defense against General Poisoning Attacks](https://arxiv.org/abs/2006.14768)”. In ICLR, 2021.
+  
 
 ## Backdoor 
 
